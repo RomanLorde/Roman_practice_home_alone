@@ -1,1 +1,3 @@
 new txt file Roman txt of package 3
+
+edit roman txt of project/packegw 3 in Github and then go to inteliji to use fetch to see what have changed
