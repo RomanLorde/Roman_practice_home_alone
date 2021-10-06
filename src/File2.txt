@@ -1,1 +1,11 @@
 creating file2.txt in git hub in remote repo than will use fatch in inteliji to see what changed
+
+updating this file to commit and do revert after to see the result
+
+it cancel my commit
+line 1
+line 2
+line 3
+line 4
+line 5
+line 6
