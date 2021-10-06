@@ -1,0 +1,1 @@
+creating file2.txt in git hub in remote repo than will use fatch in inteliji to see what changed
