@@ -1,0 +1,3 @@
+created roman4 txt file in project 1
+but before that i created gitignore in project 1 with ignored file inside Roman$.txt
+to see what will happen
