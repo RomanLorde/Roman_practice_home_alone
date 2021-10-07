@@ -1,0 +1,3 @@
+name: random txt
+created info txt in src level
+new lines added after we put this txt file in ignore
